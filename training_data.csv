@@ -1,0 +1,51 @@
+composition_id,student_id,text_content,word_count,sentence_count,fluency_score,correctness_score,composite_score,proficiency_level,essay_type,data_split
+C001,S001,"My academic goals and career aspirations are deeply rooted in my passion for economics and sustainable development...",375,24,7.2,6.8,7.0,upper-intermediate,descriptive,train
+C004,S002,"My academic goals and career aspirations center around becoming a successful economist who can contribute to Pakistan's economic development...",368,23,6.8,6.5,6.65,intermediate,descriptive,train
+C007,S003,"My academic goals and career aspirations are intricately woven around my deep fascination with economic theory...",392,26,8.1,7.7,7.9,advanced,descriptive,train
+C010,S004,"As an Economics student, my academic goals focus on developing strong analytical skills and understanding economic principles...",361,22,7.0,6.6,6.8,upper-intermediate,descriptive,train
+C013,S005,"My future plans in economics involve studying how markets work and how government policies affect people's lives...",355,21,6.5,6.2,6.35,intermediate,descriptive,train
+C016,S006,"Economics has always fascinated me because it explains how societies organize their resources and make decisions...",388,25,7.8,7.4,7.6,advanced,descriptive,train
+C019,S007,"I chose to study Economics because I want to understand how financial systems work in developing countries...",372,23,7.1,6.7,6.9,upper-intermediate,descriptive,train
+C022,S008,"My academic journey in Economics began when I realized how important economic policies are for social development...",359,20,6.4,6.1,6.25,intermediate,descriptive,train
+C025,S009,"The field of Economics offers numerous opportunities to contribute to policy-making and social welfare programs...",395,27,8.0,7.6,7.8,advanced,descriptive,train
+C028,S010,"Through my Economics degree, I hope to gain the knowledge necessary to work in international development organizations...",365,22,6.9,6.5,6.7,upper-intermediate,descriptive,train
+C031,S011,"Economics appeals to me because it combines mathematical analysis with real-world problem solving...",352,19,6.3,5.9,6.1,intermediate,descriptive,train
+C034,S012,"My career aspirations include working as an economic analyst for government agencies or private consulting firms...",378,24,7.2,6.8,7.0,upper-intermediate,descriptive,train
+C037,S013,"I believe that understanding economic principles is essential for addressing poverty and inequality in Pakistan...",348,18,6.0,5.7,5.85,intermediate,descriptive,train
+C040,S014,"Economics provides the tools necessary to analyze complex social problems and develop effective solutions...",370,23,7.0,6.6,6.8,upper-intermediate,descriptive,train
+C043,S015,"My long-term goal is to pursue graduate studies in Economics and eventually become a university professor...",390,26,7.9,7.5,7.7,advanced,descriptive,train
+C046,S016,"The study of Economics has opened my eyes to the interconnectedness of global markets and local communities...",350,19,6.2,5.8,6.0,intermediate,descriptive,train
+C049,S017,"I am particularly interested in development economics and its applications in emerging market economies...",376,24,7.3,6.9,7.1,upper-intermediate,descriptive,train
+C052,S018,"Economics offers a unique perspective on how societies can achieve sustainable growth while protecting the environment...",398,28,8.2,7.8,8.0,advanced,descriptive,train
+C055,S019,"My academic goals include mastering econometric analysis and statistical methods used in economic research...",345,17,5.9,5.6,5.75,intermediate,descriptive,train
+C058,S020,"Through Economics, I hope to contribute to evidence-based policy making that improves people's quality of life...",363,21,6.8,6.4,6.6,upper-intermediate,descriptive,train
+C061,S021,"The analytical skills developed through Economics training are valuable in many professional contexts...",380,25,7.4,7.0,7.2,upper-intermediate,descriptive,train
+C064,S022,"I am motivated to study Economics because of its potential to address social justice and inequality issues...",349,18,6.1,5.7,5.9,intermediate,descriptive,train
+C067,S023,"Economics provides a framework for understanding how institutions and policies shape economic outcomes...",387,26,7.8,7.4,7.6,advanced,descriptive,train
+C070,S024,"My interest in Economics stems from its relevance to contemporary global challenges like climate change...",367,22,6.9,6.5,6.7,upper-intermediate,descriptive,train
+C073,S025,"I hope to use my Economics education to work in microfinance and support small business development...",342,16,5.8,5.5,5.65,intermediate,descriptive,train
+C076,S026,"Economics has taught me to think critically about resource allocation and market efficiency...",374,23,7.1,6.7,6.9,upper-intermediate,descriptive,train
+C079,S027,"My career aspirations include working with international organizations to promote economic development...",400,29,8.3,7.9,8.1,advanced,descriptive,train
+C082,S028,"The study of Economics has enhanced my understanding of how monetary and fiscal policies affect economic growth...",347,17,6.0,5.6,5.8,intermediate,descriptive,train
+C085,S029,"I am particularly interested in behavioral economics and its insights into human decision-making processes...",369,22,7.0,6.6,6.8,upper-intermediate,descriptive,train
+C088,S030,"Economics provides valuable tools for analyzing market failures and designing appropriate policy interventions...",385,25,7.7,7.3,7.5,advanced,descriptive,train
+C091,S031,"My academic goals include developing expertise in econometric modeling and quantitative analysis techniques...",340,15,5.7,5.4,5.55,intermediate,descriptive,train
+C094,S032,"Through Economics, I hope to contribute to research on income inequality and social mobility...",360,20,6.7,6.3,6.5,upper-intermediate,descriptive,train
+C097,S033,"The interdisciplinary nature of Economics appeals to me because it connects with psychology, sociology, and political science...",375,24,7.2,6.8,7.0,upper-intermediate,descriptive,train
+C100,S034,"I am motivated to study Economics because of its potential to inform evidence-based public policy decisions...",344,16,5.9,5.5,5.7,intermediate,descriptive,train
+C103,S035,"Economics has provided me with analytical tools to understand complex relationships between variables in social systems...",383,25,7.6,7.2,7.4,advanced,descriptive,train
+C106,S036,"My career goals include working as an economic consultant for development projects in rural areas...",371,23,7.0,6.6,6.8,upper-intermediate,descriptive,train
+C109,S037,"The mathematical rigor of Economics appeals to me because it provides precise methods for analyzing economic phenomena...",338,14,5.6,5.3,5.45,intermediate,descriptive,train
+C112,S038,"I hope to use my Economics training to work in the banking sector and contribute to financial inclusion initiatives...",358,19,6.6,6.2,6.4,upper-intermediate,descriptive,train
+C115,S039,"Economics has taught me to appreciate the complexity of market mechanisms and the role of institutions...",381,25,7.5,7.1,7.3,advanced,descriptive,train
+C118,S040,"My academic interests include studying the economics of education and its impact on human capital development...",343,15,5.8,5.4,5.6,intermediate,descriptive,train
+C121,S041,"The study of Economics has enhanced my critical thinking skills and ability to analyze complex problems...",366,21,6.9,6.5,6.7,upper-intermediate,descriptive,train
+C124,S042,"I am particularly interested in environmental economics and sustainable development strategies...",362,20,6.8,6.4,6.6,upper-intermediate,descriptive,train
+C127,S043,"Economics provides a scientific approach to understanding how societies can achieve prosperity and well-being...",335,13,5.5,5.2,5.35,intermediate,descriptive,train
+C130,S044,"My long-term career goals include working with international financial institutions to promote economic stability...",379,24,7.4,7.0,7.2,advanced,descriptive,train
+C133,S045,"The analytical framework of Economics is valuable for understanding the causes and consequences of economic inequality...",373,23,7.1,6.7,6.9,upper-intermediate,descriptive,train
+C136,S046,"I hope to contribute to research on the economics of poverty and design effective anti-poverty programs...",341,14,5.7,5.3,5.5,intermediate,descriptive,train
+C139,S047,"Economics has provided me with tools to analyze the relationship between economic growth and social development...",364,20,6.8,6.4,6.6,upper-intermediate,descriptive,train
+C142,S048,"My academic interests focus on the intersection of Economics with public policy and social welfare programs...",377,24,7.3,6.9,7.1,advanced,descriptive,train
+C145,S049,"The study of Economics has deepened my understanding of how market forces interact with government regulations...",332,12,5.4,5.1,5.25,intermediate,descriptive,train
+C148,S050,"I am motivated to pursue Economics because of its relevance to addressing contemporary global challenges...",356,18,6.5,6.1,6.3,upper-intermediate,descriptive,train

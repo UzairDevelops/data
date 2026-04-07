@@ -1,0 +1,18 @@
+condition_id,condition_name,description,sample_size,feedback_type,feedback_timing,feedback_detail_level,instructor_involvement
+C001,control_group,"Traditional human instructor feedback only",45,human_written,48-72_hours,holistic_and_specific,primary_feedback_provider
+C002,experimental_group,"Automated dual-model system feedback",45,automated_ai,30_seconds,analytical_diagnostic,supplementary_instruction
+intervention_timeline,phase,week_number,activity_description,assessment_type,data_collection
+baseline,pre_test,1,"Initial writing assessment to establish baseline proficiency",writing_assessment,pre_test_scores
+intervention,week_2,2,"Begin differentiated feedback interventions",feedback_delivery,feedback_logs
+intervention,week_3,3,"Continue feedback interventions with essay submissions",feedback_delivery,feedback_logs
+intervention,week_4,4,"Mid-intervention assessment and progress monitoring",writing_assessment,mid_test_scores
+intervention,week_5,5,"Continue feedback interventions",feedback_delivery,feedback_logs
+intervention,week_6,6,"Continue feedback interventions",feedback_delivery,feedback_logs
+intervention,week_7,7,"Final week of feedback interventions",feedback_delivery,feedback_logs
+outcome,post_test,8,"Final writing assessment to measure improvement",writing_assessment,post_test_scores
+feedback_characteristics,control_group,human_feedback,"Detailed written comments, holistic scores, error identification, improvement suggestions",qualitative_quantitative,delayed_delivery
+feedback_characteristics,experimental_group,automated_feedback,"Separate fluency and correctness scores, specific error locations, targeted corrections, diagnostic information",quantitative_analytical,immediate_delivery
+randomization_method,stratified_random,"Participants stratified by baseline proficiency before random assignment to groups",balanced_allocation,proficiency_based_stratification
+control_measures,instructor_consistency,"Same English instructor for both groups to control for teaching quality",standardized_instruction,identical_classroom_experience
+control_measures,assessment_standardization,"Identical writing prompts and assessment conditions for all participants",standardized_assessment,controlled_environment
+control_measures,time_consistency,"All assessments conducted at same time of day to control for fatigue effects",temporal_control,consistent_scheduling

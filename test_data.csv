@@ -1,0 +1,41 @@
+composition_id,student_id,text_content,word_count,sentence_count,fluency_score,correctness_score,composite_score,proficiency_level,essay_type,data_split
+C003,S003,"Technology has fundamentally transformed human communication patterns, creating both opportunities and challenges...",378,25,7.8,7.4,7.6,advanced,analytical,test
+C006,S002,"The impact of technology on communication has been profound and multifaceted, reshaping how humans interact...",371,24,7.2,6.9,7.05,intermediate,analytical,test
+C009,S003,"The technological revolution has fundamentally transformed the landscape of human communication...",395,28,8.5,8.1,8.3,advanced,analytical,test
+C012,S004,"Technology has changed the way people communicate in both positive and negative ways...",364,23,7.2,6.8,7.0,upper-intermediate,analytical,test
+C015,S005,"The digital revolution has transformed communication methods and created new challenges for society...",358,22,8.1,7.7,7.9,intermediate,analytical,test
+C018,S006,"Modern communication technologies have revolutionized how people connect across geographical boundaries...",391,26,8.0,7.6,7.8,advanced,analytical,test
+C021,S007,"The impact of technology on communication includes both benefits and drawbacks for human interaction...",375,24,8.7,8.3,8.5,upper-intermediate,analytical,test
+C024,S008,"Digital communication platforms have changed social relationships and created new forms of interaction...",362,21,6.6,6.3,6.45,intermediate,analytical,test
+C027,S009,"Technology has revolutionized communication by enabling instant global connectivity and information sharing...",398,28,9.4,9.0,9.2,advanced,analytical,test
+C030,S010,"The influence of technology on communication has created both opportunities and challenges for society...",368,23,7.1,6.7,6.9,upper-intermediate,analytical,test
+C033,S011,"Digital communication tools have transformed how people maintain relationships and share information...",355,20,7.9,7.5,7.7,intermediate,analytical,test
+C036,S012,"Technology has fundamentally altered communication patterns and created new social dynamics...",381,25,7.4,7.0,7.2,upper-intermediate,analytical,test
+C039,S013,"The digital age has brought significant changes to how people communicate and interact with each other...",351,19,7.6,7.2,7.4,intermediate,analytical,test
+C042,S014,"Modern communication technologies have both enhanced and complicated human social interactions...",373,24,7.2,6.8,7.0,upper-intermediate,analytical,test
+C045,S015,"Technology has created new possibilities for communication while also introducing new challenges...",393,27,9.5,9.1,9.3,advanced,analytical,test
+C048,S016,"The impact of digital communication on society includes changes in social behavior and relationship formation...",353,20,6.4,6.0,6.2,intermediate,analytical,test
+C051,S017,"Technology has transformed communication by making it faster, more accessible, but also more complex...",379,25,8.9,8.5,8.7,upper-intermediate,analytical,test
+C054,S018,"The digital revolution in communication has created both opportunities for connection and risks of isolation...",401,29,8.4,8.0,8.2,advanced,analytical,test
+C057,S019,"Modern communication technologies have changed how people express themselves and maintain relationships...",348,18,7.5,7.1,7.3,intermediate,analytical,test
+C060,S020,"Technology has revolutionized communication by enabling new forms of expression and global connectivity...",366,22,7.0,6.6,6.8,upper-intermediate,analytical,test
+C063,S021,"The impact of technology on communication has been transformative, affecting all aspects of human interaction...",383,26,9.0,8.6,8.8,upper-intermediate,analytical,test
+C066,S022,"Digital communication platforms have created new opportunities for social connection and information sharing...",352,19,6.3,5.9,6.1,intermediate,analytical,test
+C069,S023,"Technology has fundamentally changed communication by making it more immediate and globally accessible...",390,27,9.4,9.0,9.2,advanced,analytical,test
+C072,S024,"The influence of technology on communication has created both benefits and challenges for modern society...",370,23,7.1,6.7,6.9,upper-intermediate,analytical,test
+C075,S025,"Digital communication tools have transformed social interactions and created new forms of human connection...",345,17,7.4,7.0,7.2,intermediate,analytical,test
+C078,S026,"Technology has revolutionized communication by enabling instant global connectivity and multimedia sharing...",377,24,7.3,6.9,7.1,upper-intermediate,analytical,test
+C081,S027,"The digital age has brought unprecedented changes to how people communicate and form relationships...",403,30,9.9,9.5,9.7,advanced,analytical,test
+C084,S028,"Modern communication technologies have both enhanced human connection and created new social challenges...",350,18,6.2,5.8,6.0,intermediate,analytical,test
+C087,S029,"Technology has transformed communication by making it more efficient while also creating new complexities...",372,23,8.6,8.2,8.4,upper-intermediate,analytical,test
+C090,S030,"The impact of technology on communication includes changes in language use and social interaction patterns...",388,26,7.9,7.5,7.7,advanced,analytical,test
+C093,S031,"Digital communication platforms have revolutionized how people share information and maintain relationships...",343,16,7.3,6.9,7.1,intermediate,analytical,test
+C096,S032,"Technology has fundamentally altered communication by enabling new forms of expression and global reach...",363,21,6.9,6.5,6.7,upper-intermediate,analytical,test
+C099,S033,"The digital revolution in communication has created opportunities for innovation and social transformation...",378,25,8.8,8.4,8.6,upper-intermediate,analytical,test
+C102,S034,"Modern communication technologies have changed how people interact and form social connections...",347,17,6.1,5.7,5.9,intermediate,analytical,test
+C105,S035,"Technology has revolutionized communication by making it more accessible and enabling global collaboration...",386,26,9.2,8.8,9.0,advanced,analytical,test
+C108,S036,"The impact of technology on communication has been profound, affecting both personal and professional relationships...",374,24,7.2,6.8,7.0,upper-intermediate,analytical,test
+C111,S037,"Digital communication tools have transformed how people express themselves and connect with others...",341,15,7.2,6.8,7.0,intermediate,analytical,test
+C114,S038,"Technology has changed communication by making it faster and more convenient while creating new challenges...",361,20,6.8,6.4,6.6,upper-intermediate,analytical,test
+C117,S039,"The digital age has brought significant changes to communication patterns and social interaction norms...",384,26,9.1,8.7,8.9,advanced,analytical,test
+C120,S040,"Modern communication technologies have both improved and complicated human social relationships...",346,16,6.0,5.6,5.8,intermediate,analytical,test

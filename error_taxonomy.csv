@@ -1,0 +1,32 @@
+error_category,error_type,error_subtype,description,example_incorrect,example_correct,frequency_percentage,severity_level
+grammatical,subject_verb_agreement,singular_plural,"Mismatch between subject and verb number","The students is studying","The students are studying",15.2,high
+grammatical,verb_tense,tense_consistency,"Inconsistent use of verb tenses","I go to school yesterday","I went to school yesterday",12.8,high
+grammatical,verb_tense,present_perfect,"Incorrect use of present perfect tense","I have go there","I have gone there",8.4,medium
+grammatical,article_usage,definite_article,"Incorrect use of 'the'","I go to the school","I go to school",11.6,medium
+grammatical,article_usage,indefinite_article,"Incorrect use of 'a/an'","He is engineer","He is an engineer",9.3,medium
+grammatical,preposition,preposition_choice,"Wrong preposition selection","I am good in English","I am good at English",14.7,medium
+grammatical,word_order,adjective_order,"Incorrect adjective ordering","A red beautiful car","A beautiful red car",3.2,low
+grammatical,pronoun,pronoun_reference,"Unclear pronoun reference","John told Bill that he was wrong","John told Bill that Bill was wrong",5.8,medium
+mechanical,punctuation,comma_usage,"Incorrect comma placement","However I disagree","However, I disagree",18.9,low
+mechanical,punctuation,period_usage,"Missing or incorrect periods","This is important This shows","This is important. This shows",7.4,low
+mechanical,capitalization,sentence_initial,"Missing capital at sentence start","the study shows that","The study shows that",6.1,low
+mechanical,capitalization,proper_nouns,"Incorrect capitalization of proper nouns","I live in pakistan","I live in Pakistan",4.3,low
+mechanical,spelling,common_words,"Misspelling of common words","recieve","receive",13.5,medium
+mechanical,spelling,academic_vocabulary,"Misspelling of academic terms","analize","analyze",8.7,medium
+usage,word_choice,vocabulary_precision,"Imprecise word selection","The research is very good","The research is comprehensive",16.2,medium
+usage,word_choice,register_appropriateness,"Inappropriate register for academic writing","The study is awesome","The study is excellent",7.9,medium
+usage,collocation,verb_noun,"Incorrect verb-noun combinations","make research","conduct research",9.6,medium
+usage,collocation,adjective_noun,"Incorrect adjective-noun combinations","strong tea","strong coffee",4.1,low
+usage,idiom,idiomatic_expression,"Incorrect idiomatic usage","in the other hand","on the other hand",5.7,medium
+syntactic,sentence_structure,run_on_sentence,"Excessively long sentences without proper punctuation","The study shows that students learn better when they have good teachers and the environment is supportive and resources are available","The study shows that students learn better when they have good teachers, supportive environments, and available resources",8.3,high
+syntactic,sentence_structure,sentence_fragment,"Incomplete sentences","Because of the results","Because of the results, we can conclude",6.4,high
+syntactic,parallelism,parallel_structure,"Lack of parallel structure in lists","Students like reading, writing, and to speak","Students like reading, writing, and speaking",4.8,medium
+syntactic,coordination,coordinating_conjunctions,"Incorrect use of coordinating conjunctions","I studied hard, but I failed","I studied hard, yet I failed",3.7,low
+syntactic,subordination,subordinating_conjunctions,"Incorrect use of subordinating conjunctions","Although I studied, but I failed","Although I studied, I failed",5.2,medium
+semantic,meaning,word_meaning,"Use of words with incorrect meaning","The study was very literal","The study was very literal (should be 'comprehensive')",7.1,high
+semantic,coherence,logical_flow,"Lack of logical connection between ideas","Students study hard. The weather is nice","Students study hard to achieve good grades",9.8,high
+semantic,coherence,topic_relevance,"Ideas not relevant to the topic","Essay about education discusses sports","Essay about education focuses on learning",3.4,high
+discourse,cohesion,reference_chains,"Unclear reference relationships","This shows the importance","This finding shows the importance",11.3,medium
+discourse,cohesion,transitional_devices,"Missing or inappropriate transitions","First point. Second point","First point. Furthermore, the second point",8.9,medium
+discourse,organization,paragraph_structure,"Poor paragraph organization","Multiple topics in one paragraph","One main idea per paragraph",6.7,medium
+discourse,organization,introduction_conclusion,"Weak introduction or conclusion","The essay starts abruptly","The essay begins with clear thesis statement",4.5,medium

@@ -1,0 +1,13 @@
+analysis_type,group,sample_size,pre_test_mean,pre_test_sd,post_test_mean,post_test_sd,improvement_mean,improvement_sd,effect_size_cohens_d,p_value,confidence_interval_lower,confidence_interval_upper,statistical_test
+writing_improvement,control,45,13.58,1.95,14.23,2.11,0.65,1.23,0.32,0.045,0.28,1.02,independent_t_test
+writing_improvement,experimental,45,13.73,2.12,16.47,2.34,2.74,1.87,1.28,<0.001,2.18,3.30,independent_t_test
+fluency_improvement,control,45,6.82,0.98,7.15,1.06,0.33,0.62,0.31,0.048,0.14,0.52,independent_t_test
+fluency_improvement,experimental,45,6.89,1.07,8.26,1.18,1.37,0.94,1.27,<0.001,1.09,1.65,independent_t_test
+correctness_improvement,control,45,6.76,0.97,7.08,1.05,0.32,0.61,0.31,0.049,0.13,0.51,independent_t_test
+correctness_improvement,experimental,45,6.84,1.05,8.21,1.16,1.37,0.93,1.26,<0.001,1.09,1.65,independent_t_test
+between_groups_comparison,control_vs_experimental,90,NA,NA,NA,NA,2.09,1.55,1.35,<0.001,1.76,2.42,independent_t_test
+repeated_measures_anova,all_participants,90,NA,NA,NA,NA,NA,NA,NA,<0.001,NA,NA,repeated_measures_anova
+time_effect,pre_mid_post,90,NA,NA,NA,NA,NA,NA,0.89,<0.001,NA,NA,repeated_measures_anova
+group_time_interaction,control_experimental,90,NA,NA,NA,NA,NA,NA,0.76,<0.001,NA,NA,repeated_measures_anova
+correlation_analysis,automated_human_scores,270,NA,NA,NA,NA,NA,NA,NA,<0.001,0.917,0.929,pearson_correlation
+power_analysis,sample_size_validation,90,NA,NA,NA,NA,NA,NA,0.5,0.05,80%,NA,power_analysis

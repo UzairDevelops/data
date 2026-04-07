@@ -1,0 +1,42 @@
+composition_id,student_id,text_content,word_count,sentence_count,fluency_score,correctness_score,composite_score,proficiency_level,essay_type,data_split
+C151,S051,"Traditional learning and online learning represent two fundamentally different approaches to education...",368,22,7.0,6.6,6.8,upper-intermediate,comparative,validation
+C154,S052,"The comparison between traditional and online learning reveals distinct advantages and disadvantages for each method...",339,13,5.6,5.2,5.4,intermediate,comparative,validation
+C157,S053,"Traditional classroom instruction provides face-to-face interaction that online learning cannot fully replicate...",375,23,7.2,6.8,7.0,advanced,comparative,validation
+C160,S054,"Online learning offers flexibility and accessibility that traditional classroom settings often lack...",361,19,6.7,6.3,6.5,upper-intermediate,comparative,validation
+C163,S055,"The effectiveness of traditional versus online learning depends on individual learning styles and preferences...",329,11,5.3,5.0,5.15,intermediate,comparative,validation
+C166,S056,"Traditional learning environments foster social interaction and collaborative learning experiences...",354,17,6.4,6.0,6.2,upper-intermediate,comparative,validation
+C169,S057,"Online learning platforms provide access to diverse educational resources and global expertise...",367,21,6.9,6.5,6.7,advanced,comparative,validation
+C172,S058,"The debate between traditional and online learning highlights the importance of pedagogical innovation...",337,12,5.5,5.1,5.3,intermediate,comparative,validation
+C175,S059,"Traditional classroom settings enable immediate feedback and real-time clarification of complex concepts...",359,18,6.6,6.2,6.4,upper-intermediate,comparative,validation
+C178,S060,"Online learning democratizes education by removing geographical and temporal barriers to access...",353,16,6.3,5.9,6.1,upper-intermediate,comparative,validation
+C181,S061,"The comparison between traditional and online learning reveals the need for hybrid educational approaches...",326,10,5.2,4.9,5.05,intermediate,comparative,validation
+C184,S062,"Traditional learning benefits from structured environments that promote discipline and focus...",363,19,6.8,6.4,6.6,advanced,comparative,validation
+C187,S063,"Online learning requires strong self-motivation and time management skills from students...",357,17,6.5,6.1,6.3,upper-intermediate,comparative,validation
+C190,S064,"The effectiveness of traditional versus online learning varies across different academic disciplines...",334,11,5.4,5.0,5.2,intermediate,comparative,validation
+C193,S065,"Traditional classroom instruction facilitates hands-on learning experiences and practical applications...",351,15,6.2,5.8,6.0,upper-intermediate,comparative,validation
+C196,S066,"Online learning platforms offer personalized learning paths and adaptive assessment tools...",360,18,6.6,6.2,6.4,advanced,comparative,validation
+C199,S067,"The comparison between traditional and online learning highlights the importance of teacher training...",323,9,5.1,4.8,4.95,intermediate,comparative,validation
+C202,S068,"Traditional learning environments provide opportunities for spontaneous discussions and debates...",348,14,6.1,5.7,5.9,upper-intermediate,comparative,validation
+C205,S069,"Online learning enables students to learn at their own pace and review materials multiple times...",355,16,6.4,6.0,6.2,upper-intermediate,comparative,validation
+C208,S070,"The debate between traditional and online learning emphasizes the need for educational flexibility...",331,10,5.3,4.9,5.1,intermediate,comparative,validation
+C211,S071,"Traditional classroom settings foster a sense of community and belonging among students...",362,18,6.7,6.3,6.5,advanced,comparative,validation
+C214,S072,"Online learning platforms provide access to cutting-edge educational technologies and simulations...",346,13,6.0,5.6,5.8,upper-intermediate,comparative,validation
+C217,S073,"The comparison between traditional and online learning reveals different approaches to student engagement...",320,8,5.0,4.7,4.85,intermediate,comparative,validation
+C220,S074,"Traditional learning benefits from the physical presence of instructors and immediate assistance...",344,12,5.9,5.5,5.7,upper-intermediate,comparative,validation
+C223,S075,"Online learning offers cost-effective solutions for delivering education to large numbers of students...",352,15,6.3,5.9,6.1,advanced,comparative,validation
+C226,S076,"The effectiveness of traditional versus online learning depends on the quality of instructional design...",328,9,5.2,4.8,5.0,intermediate,comparative,validation
+C229,S077,"Traditional classroom instruction enables real-time assessment of student comprehension and progress...",347,13,6.0,5.6,5.8,upper-intermediate,comparative,validation
+C232,S078,"Online learning platforms facilitate global collaboration and cross-cultural educational exchanges...",342,11,5.8,5.4,5.6,upper-intermediate,comparative,validation
+C235,S079,"The comparison between traditional and online learning highlights the importance of digital literacy...",317,7,4.9,4.6,4.75,intermediate,comparative,validation
+C238,S080,"Traditional learning environments provide structured social interactions that support student development...",350,14,6.2,5.8,6.0,advanced,comparative,validation
+C241,S081,"Online learning offers innovative assessment methods and continuous feedback mechanisms...",345,12,5.9,5.5,5.7,upper-intermediate,comparative,validation
+C244,S082,"The debate between traditional and online learning emphasizes the need for pedagogical research...",325,8,5.1,4.7,4.9,intermediate,comparative,validation
+C247,S083,"Traditional classroom settings enable collaborative problem-solving and peer learning opportunities...",340,11,5.7,5.3,5.5,upper-intermediate,comparative,validation
+C250,S084,"Online learning platforms provide detailed analytics and data-driven insights into student performance...",338,10,5.6,5.2,5.4,upper-intermediate,comparative,validation
+C253,S085,"The comparison between traditional and online learning reveals the importance of educational equity...",314,6,4.8,4.5,4.65,intermediate,comparative,validation
+C256,S086,"Traditional learning benefits from established institutional structures and support systems...",336,9,5.5,5.1,5.3,upper-intermediate,comparative,validation
+C259,S087,"Online learning enables the integration of multimedia content and interactive learning materials...",333,8,5.4,5.0,5.2,upper-intermediate,comparative,validation
+C262,S088,"The effectiveness of traditional versus online learning depends on student preparation and motivation...",322,7,5.0,4.6,4.8,intermediate,comparative,validation
+C265,S089,"Traditional classroom instruction provides opportunities for mentorship and professional networking...",330,7,5.3,4.9,5.1,advanced,comparative,validation
+C268,S090,"Online learning platforms offer scalable solutions for addressing global educational challenges...",319,6,4.9,4.5,4.7,upper-intermediate,comparative,validation
+C271,S051,"The impact of technology on communication has transformed how humans interact in the digital age...",371,23,7.0,6.6,6.8,upper-intermediate,analytical,validation

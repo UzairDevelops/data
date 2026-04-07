@@ -1,0 +1,21 @@
+study_reference,methodology,dataset_size,correlation_fluency,correlation_correctness,correlation_composite,mae_fluency,mae_correctness,mae_composite,rmse_composite,key_findings,year
+Current_Study,Dual-Model_BERT+T5,270,0.944,0.887,0.923,0.142,0.156,0.149,0.226,"Superior performance across all metrics",2024
+Chen_Pan_2022,Single_BERT_Model,180,0.821,0.773,0.847,0.165,0.198,0.187,0.267,"Good fluency assessment, weaker correctness",2022
+Xuan_2025,Transformer-LSTM,350,0.876,0.854,0.891,0.158,0.172,0.165,0.245,"Strong hybrid architecture performance",2025
+Kumar_et_al_2024,VAE-based_System,200,0.832,0.798,0.876,0.167,0.181,0.174,0.258,"Effective personalized feedback generation",2024
+Martinez_et_al_2024,Integrated_AWE-GEC,240,0.845,0.821,0.869,0.171,0.193,0.182,0.271,"Good error correction capabilities",2024
+Rodriguez_et_al_2024,Multi-strategy_System,320,0.829,0.787,0.858,0.184,0.206,0.195,0.289,"Comprehensive evaluation approach",2024
+BERT_Only_Baseline,Single_BERT_Fluency,270,0.844,NA,0.844,0.187,NA,0.187,0.267,"Fluency-focused assessment only",2024
+Rule_Based_Baseline,Grammar_Rules_Only,270,NA,0.756,0.756,NA,0.234,0.234,0.312,"Traditional rule-based correctness",2024
+Traditional_AWE_Baseline,Feature_Based_AWE,270,0.765,0.743,0.789,0.198,0.224,0.211,0.289,"Classical linguistic features approach",2024
+Hybrid_Feature_Baseline,Combined_Features,270,0.798,0.776,0.812,0.185,0.211,0.198,0.276,"Ensemble of shallow features",2024
+Pigai_Platform,Commercial_AWE,500,0.782,0.758,0.795,0.203,0.227,0.215,0.295,"Commercial platform performance",2023
+Criterion_ETS,Commercial_AES,1000,0.798,0.774,0.823,0.189,0.208,0.198,0.278,"ETS commercial system",2023
+E_rater_ETS,Automated_Scoring,2000,0.812,0.789,0.834,0.176,0.195,0.185,0.265,"Large-scale automated scoring",2023
+WriteToLearn_System,Educational_Platform,150,0.756,0.732,0.771,0.218,0.245,0.231,0.324,"Educational writing platform",2022
+Grammarly_Business,Grammar_Checker,300,0.723,0.798,0.776,0.234,0.187,0.210,0.298,"Commercial grammar checking",2023
+BERT_Large_Baseline,BERT_Large_Model,270,0.867,NA,0.867,0.164,NA,0.164,0.243,"Larger BERT model for fluency",2024
+T5_Large_Baseline,T5_Large_GEC,270,NA,0.823,0.823,NA,0.177,0.177,0.251,"Larger T5 model for correctness",2024
+GPT3_5_Baseline,GPT3.5_Evaluation,100,0.834,0.801,0.856,0.172,0.189,0.180,0.259,"GPT-3.5 based evaluation",2024
+Claude_Baseline,Claude_Assessment,100,0.821,0.787,0.841,0.179,0.201,0.190,0.271,"Claude AI assessment",2024
+Human_Rater_Agreement,Human_Evaluators,270,0.847,0.823,0.923,0.089,0.094,0.091,0.134,"Inter-rater reliability baseline",2024
